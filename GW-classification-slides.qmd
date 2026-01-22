@@ -23,7 +23,7 @@ bibliography: references.bib
 :::
 :::
 
----
+<!-- ---
 
 ## Gravitational Waves continued
 
@@ -33,7 +33,7 @@ bibliography: references.bib
   - Effects are **far too small** to detect
 - Detectable Source
   - Binary blackholes, neutron stars
-  - supernova explosion
+  - supernova explosion -->
 
 ---
 
@@ -48,19 +48,19 @@ bibliography: references.bib
   - Black hole mergers
   - Otherwise inaccessible regions
 
----
+<!-- ---
 
 ## How Do We Observe Gravitational Waves?
 
 - Detection is an **extraordinary technological challenge**
 - Primary instrument:
-  - **LIGO** (Laser Interferometer Gravitational-Wave Observatory)
+  - **LIGO** (Laser Interferometer Gravitational-Wave Observatory) -->
 
 ---
 
-## LIGO Detector Overview
+## How do we measure GW
 
-![A Simplified Schematic diagram of a LIGO detector [@wiki:detector_schematic]](img/LIGO_simplified.svg.png){width=70%}
+![A Simplified Schematic diagram of a **LIGO** (Laser Interferometer Gravitational-Wave Observatory) detector [@wiki:detector_schematic]](img/LIGO_simplified.svg.png){width=70%}
 
 ---
 
@@ -94,10 +94,9 @@ bibliography: references.bib
 ## Sensitivity of LIGO
 
 - Measures changes:
-  - **10,000 $\times$ smaller than a proton’s diameter**
+  - **10,000 $\times$ smaller than a proton’s diameter** ($10^{-20} m$)
 - Equivalent to:
-  - Measuring distance to nearest star
-  - With precision smaller than a human hair
+  - Measuring distance to nearest star ($4.2$ ly) w/ precision smaller than a human hair
 - Glitches
   - Earthquakes, Traffic vibrations, Thermal vibrations, Quantum laser noise
 
@@ -125,22 +124,14 @@ Methods used include:
 - Random forest classifiers @shah2023wavesforestrandomforest
 - Image-based classifiers @alvarezlopez2023gspynettreesignalvsglitchclassifiergravitationalwave
 - Cross-correlation between detectors
-
----
-
-## Global Detector Network
-
-- LIGO (United States)
-- Virgo (Europe)
-- KAGRA (Japan)
+  - LIGO (United States), Virgo (Europe), KAGRA (Japan)
 
 True gravitational waves:
-- Appear in multiple detectors
-- Have consistent timing and waveform
+- Consistent signal in multiple detectors
 
 ---
 
-## Citizen Science: Gravity Spy
+## Citizen Science: [Gravity Spy](https://www.zooniverse.org/projects/zooniverse/gravity-spy)
 
 - Crowd-sourced glitch classification
 - Combines:
