@@ -2,7 +2,7 @@
 title: "Gravitational Waves Explained"
 subtitle: "How We Measure Them and What We Classify"
 author: "Harrison Li"
-date: "2026-01-20"
+date: "2026-01-22"
 format:
   revealjs:
     slide-number: true
@@ -43,7 +43,6 @@ bibliography: references.bib
 - Light can be: Absorbed, Scattered, Blocked by dust or gas
 - Gravitational waves:
   - Interact extremely weakly with matter
-  - Travel largely unimpeded
 - Enable observation of:
   - Black hole mergers
   - Otherwise inaccessible regions
@@ -58,7 +57,7 @@ bibliography: references.bib
 
 ---
 
-## How do we measure GW
+## How we measure GW
 
 ![A Simplified Schematic diagram of a **LIGO** (Laser Interferometer Gravitational-Wave Observatory) detector [@wiki:detector_schematic]](img/LIGO_simplified.svg.png){width=70%}
 
@@ -85,7 +84,7 @@ bibliography: references.bib
   - sound like a bird chirp
 :::
 ::: {.column}
-![First measurement: GW150914 [@wiki:first_observation]](img/LIGO_measurement_of_gravitational_waves.svg.png)
+![First observation: GW150914 [@wiki:first_observation]](img/LIGO_measurement_of_gravitational_waves.svg.png)
 :::
 :::
 
@@ -119,14 +118,13 @@ bibliography: references.bib
 
 ## Machine Learning & Classification
 
-Methods used include:
-
 - Random forest classifiers @shah2023wavesforestrandomforest
 - Image-based classifiers @alvarezlopez2023gspynettreesignalvsglitchclassifiergravitationalwave
 - Cross-correlation between detectors
   - LIGO (United States), Virgo (Europe), KAGRA (Japan)
 
-True gravitational waves:
+True GW:
+
 - Consistent signal in multiple detectors
 
 ---
