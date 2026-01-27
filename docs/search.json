@@ -7,18 +7,18 @@
     "text": "What Are Gravitational Waves?\n\n\n\nPredicted in 1916 by Albert Einstein\nfabric of spacetime (4D)\nMass and energy curve spacetime \\(\\to\\) gravity\n\n\n\n\n\nImage of gravitational wave (simulation) — Courtesy Caltech/MIT/LIGO Laboratory (LIGO Laboratory 2015)"
   },
   {
-    "objectID": "GW-classification-slides.html#why-gravitational-waves-matter",
-    "href": "GW-classification-slides.html#why-gravitational-waves-matter",
-    "title": "Gravitational Waves Explained",
-    "section": "Why Gravitational Waves Matter",
-    "text": "Why Gravitational Waves Matter\n\nTraditional astronomy relies on electromagnetic radiation\nLight can be: Absorbed, Scattered, Blocked by dust or gas\nGravitational waves:\n\nInteract extremely weakly with matter\n\nEnable observation of:\n\nBlack hole mergers\nOtherwise inaccessible regions"
-  },
-  {
     "objectID": "GW-classification-slides.html#how-we-measure-gw",
     "href": "GW-classification-slides.html#how-we-measure-gw",
     "title": "Gravitational Waves Explained",
     "section": "How we measure GW",
     "text": "How we measure GW\n\nA Simplified Schematic diagram of a LIGO (Laser Interferometer Gravitational-Wave Observatory) detector (Commons 2020)"
+  },
+  {
+    "objectID": "GW-classification-slides.html#gw-detection",
+    "href": "GW-classification-slides.html#gw-detection",
+    "title": "Gravitational Waves Explained",
+    "section": "GW Detection",
+    "text": "GW Detection\n\n\n\n\ncalibrated to have no signal\n\n\n\n\nGW introduce phase difference"
   },
   {
     "objectID": "GW-classification-slides.html#the-chirp-signal-blackhole-merger",
@@ -32,7 +32,7 @@
     "href": "GW-classification-slides.html#sensitivity-of-ligo",
     "title": "Gravitational Waves Explained",
     "section": "Sensitivity of LIGO",
-    "text": "Sensitivity of LIGO\n\nMeasures changes:\n\n10,000 \\(\\times\\) smaller than a proton’s diameter (\\(10^{-20} m\\))\n\nEquivalent to:\n\nMeasuring distance to nearest star (\\(4.2\\) ly) w/ precision smaller than a human hair\n\nGlitches\n\nEarthquakes, Traffic vibrations, Thermal vibrations, Quantum laser noise"
+    "text": "Sensitivity of LIGO\n\nMeasures changes:\n\n10,000 \\(\\times\\) smaller than a proton’s diameter (\\(10^{-20} m\\))\n\nEquivalent to:\n\nMeasuring distance to nearest star (\\(4.2\\) ly) w/ precision smaller than a human hair\n\nGlitches (noise signal)\n\nEarthquakes, Traffic vibrations, Thermal vibrations, Quantum laser noise"
   },
   {
     "objectID": "GW-classification-slides.html#glitch-classification-challenge",
@@ -46,21 +46,14 @@
     "href": "GW-classification-slides.html#machine-learning-classification",
     "title": "Gravitational Waves Explained",
     "section": "Machine Learning & Classification",
-    "text": "Machine Learning & Classification\n\nRandom forest classifiers Shah et al. (2023)\nImage-based classifiers Alvarez-Lopez et al. (2023)\nCross-correlation between detectors\n\nLIGO (United States), Virgo (Europe), KAGRA (Japan)\n\n\nTrue GW:\n\nConsistent signal in multiple detectors"
-  },
-  {
-    "objectID": "GW-classification-slides.html#citizen-science-gravity-spy",
-    "href": "GW-classification-slides.html#citizen-science-gravity-spy",
-    "title": "Gravitational Waves Explained",
-    "section": "Citizen Science: Gravity Spy",
-    "text": "Citizen Science: Gravity Spy\n\nCrowd-sourced glitch classification\nCombines:\n\nHuman pattern recognition\nMachine learning\n\nImproves detection reliability and efficiency"
+    "text": "Machine Learning & Classification\n\nRandom forest classifiers Shah et al. (2023)\nImage-based classifiers Alvarez-Lopez et al. (2023)\nCross-correlation between detectors\n\nLIGO (United States), Virgo (Europe), KAGRA (Japan)\n\nTrue GW:\n\nConsistent signal in multiple detectors\n\nCrowd Sourced Project Gravity Spy"
   },
   {
     "objectID": "GW-classification-slides.html#key-takeaways",
     "href": "GW-classification-slides.html#key-takeaways",
     "title": "Gravitational Waves Explained",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\n\nGravitational waves open a new window on the universe\nLIGO measures extraordinarily tiny spacetime distortions\nNoise makes detection a major classification challenge\nMachine learning and citizen science are essential tools"
+    "text": "Key Takeaways\n\nGravitational waves open a new window on the universe\nLIGO measures extraordinarily tiny spacetime distortions\nNoise makes detection a major classification challenge\nApplication of machine learning in astrophysics"
   },
   {
     "objectID": "GW-classification-slides.html#references",
