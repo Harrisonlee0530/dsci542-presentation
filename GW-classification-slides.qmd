@@ -19,7 +19,7 @@ bibliography: references.bib
 - Mass and energy **curve spacetime** $\to$ gravity
 :::
 ::: {.column width="60%"}
-![Image of gravitational wave (simulation) — Courtesy Caltech/MIT/LIGO Laboratory [@ligo_gravitational_waves_video]](img/LIGO-Lab-Gravity-Waves.mp4)
+![Gravitational wave simulation — Courtesy Caltech/MIT/LIGO Laboratory [@ligo_gravitational_waves_video]](img/LIGO-Lab-Gravity-Waves.mp4)
 :::
 :::
 
