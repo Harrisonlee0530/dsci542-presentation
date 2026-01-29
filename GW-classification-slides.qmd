@@ -2,7 +2,7 @@
 title: "Gravitational Waves Explained"
 subtitle: "How We Measure Them and What We Classify"
 author: "Harrison Li"
-date: "2026-01-22"
+date: "2026-01-29"
 format:
   revealjs:
     slide-number: true
